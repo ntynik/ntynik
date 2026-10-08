@@ -20,6 +20,6 @@ I'm a computer science student learning software development while working towar
 
 ## 📫 Let's Connect
 
-- **LinkedIn**: [Your Name](https://linkedin.com/in/ntynik)
+- **LinkedIn**: [Nathan](https://linkedin.com/in/ntynik)
 
 - **Email**: ntynik@proton.me
