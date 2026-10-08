@@ -22,6 +22,6 @@ Locally hosted webpage that displays data from two event APIs; a college event c
 - [View Project](https://github.com/ntynik/PFE2-API-Information-Display)
 
 ### LLM-Driven Text-Based RPG Engine
-The beginnings of a game engine utilizing LLMs and SQL databases for AI-driven role playing games
+The beginnings of a game engine utilizing LLMs and SQL databases for AI-driven role playing games.
 - **Tech**: Python, HTML/CSS, SQL, LLMs
 - [View Project](https://github.com/ntynik/Text-Based-RPG-Engine)
