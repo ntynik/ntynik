@@ -1,16 +1,25 @@
-## Hi there 👋
+# Hey there, I'm Nathan! 👋
 
-<!--
-**ntynik/ntynik** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a computer science student learning software development while working towards a minor in physics on the side.
 
-Here are some ideas to get you started:
+## 🛠️ Technologies & Tools
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- **Languages**: Python, C++, AutoLISP
+
+- **Currently Learning**: HMTL, SQL
+
+- **Tools**: Visual Studio, VS Code, Git, GitHub, AutoCAD
+
+## 🌱 What I'm Currently Working On
+
+- Studying software complexity in my web algorithms course
+
+- Creating a personal portfolio
+
+- Learning how to integrate AI into software by building an LLM-based RPG engine
+
+## 📫 Let's Connect
+
+- **LinkedIn**: [Your Name](https://linkedin.com/in/ntynik)
+
+- **Email**: ntynik@proton.me
